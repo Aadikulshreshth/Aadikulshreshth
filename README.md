@@ -26,4 +26,5 @@ This GitHub is mainly a learning space where I upload coursework, practice probl
 ## Contact
 
 Email: kulshreshthaadi@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/aadi-kulshreshth-b26b42315/
