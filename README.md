@@ -51,9 +51,3 @@ https://www.linkedin.com/in/aadi-kulshreshth-b26b42315/
 
 
 This GitHub is mainly a learning space where I upload coursework, practice problems, and small projects as I progress through my degree.
-
-## Contact
-
-Email: kulshreshthaadi@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/aadi-kulshreshth-b26b42315/
